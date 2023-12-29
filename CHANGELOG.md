@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-12-29: test(utils): handle empty payload
 - 2023-06-07: feat(auth): add session handling
 - 2022-07-01: feat(utils): correct response status codes
 - 2021-10-01: Minor code cleanup
