@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-02-11: Update environment config
 - 2024-07-22: style(api): handle empty payload
 - 2023-12-29: test(utils): handle empty payload
 - 2023-06-07: feat(auth): add session handling
